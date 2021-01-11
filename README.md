@@ -1,4 +1,4 @@
-# HW_Angular2_Ludmila
+# HW1_1_Angular2_Ludmila
 ITVDN Front-End-Developer
 Это урок-введение, в котором рассматриваются особенности фреймворка Angular 2 его
 основные отличия от предыдущих версий. 
